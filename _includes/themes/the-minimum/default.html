@@ -14,53 +14,36 @@
 </head>
 <body>
 
-<div id="page" class="hentry">
-	<header class="the-header">
-		<div class="unit-head">
-			<div class="unit-inner unit-head-inner">
-				<p class="logo"><a href="{{ HOME_PATH }}">{{ site.title }}</a></p>
-				<nav class="nav-global">
-					<ul>
-						<li class="archive"><a href="/archive.html">archive</a></li>
-						<li class="page"><a href="/pages.html">pages</a></li>
-						<li class="category"><a href="/categories.html">categories</a></li>
-						<li class="tag"><a href="/tags.html">tags</a></li>
-						<li class="forkme"><iframe src="http://markdotto.github.com/github-buttons/github-btn.html?user=plusjade&repo=jekyll-bootstrap&type=fork&count=true"
-								allowtransparency="true" frameborder="0" scrolling="0" width="95px" height="20px"></iframe></li>
-					</ul>
-				</nav>
-			</div><!-- unit-inner -->
-		</div><!-- unit-head -->
-	</header>
-	<div class="body" role="main">
-		<div class="unit-body">
-			<div class="unit-inner unit-body-inner">
+<article class="unit-article layout-page">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">{{ site.title }}</h1>
+						<b>{{ site.tagline }}</b>
+					</div>
+				</div>
+			</header>
+
+			<div class="bd">
 				<div class="entry-content">
 					{{ content }}
+				</div><!-- entry-content -->
+			</div><!-- bd -->
+
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
 				</div>
-			</div><!-- unit-inner -->
-		</div><!-- unit-body -->
-	</div><!-- body -->
-	<footer class="the-footer">
-		<div class="unit-foot">
-			<div class="unit-inner unit-foot-inner">
-				<div class="misc vcard">
-					<h4>about</h4>
-					<ul>
-						<li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
-						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
-						<li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
-						<li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li>
-					</ul>
-				</div><!-- misc -->
-				<p class="licence">
-					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
-					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
-				</p>
-			</div><!-- unit-foot-inner -->
-		</div><!-- unit-foot -->
-	</footer>
-</div><!-- page -->
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
 <script>
 	(function(d, s) {
 		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
