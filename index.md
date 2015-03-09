@@ -18,13 +18,13 @@ For more details, see the [__full proposal__](https://dl.dropboxusercontent.com/
 
 ## Workshop Schedule
 
-March 16, 2015, 8:30am - 12:30pm; Location: MU 3204
+March 16, 2015, 8:30am - 12:30pm; Location: MU 3204. (Workshop starts at 8:30am sharp. Please plan your conference registration accordingly.)
 
-- 8:30-9:00 - __Introduction to the Workshop: Temporal Analyses and Learning Analytics__ (led by organizers)
-- 9:00-10:00 - __Group Work Session 1 (Conceptual)__: Intro to the Approach, Tools & Data Types it can work for (analytic & data presenters)
-- 10:00-10:15 - Coffee Break
-- 10:15-11:45 - __Group Work Session 2 (Application)__: Hands-on putting data into the tools and/or critical discussion of its application to specific data sets (all group members)
-- 11:45-12:30 - __Group Share Out, General Discussion and Wrap-Up__ (whole workshop)
+- *8:30-9:00* - Introduction to the Workshop: Temporal Analyses and Learning Analytics (led by organizers)
+- *9:00-10:00* - Group Work Session 1 (Conceptual): Intro to the Approach, Tools & Data Types it can work for (analytic & data presenters)
+- *10:00-10:15* - Coffee Break
+- *10:15-11:45* - Group Work Session 2 (Application): Hands-on putting data into the tools and/or critical discussion of its application to specific data sets (all group members)
+- *11:45-12:30* - Group Share Out, General Discussion and Wrap-Up (whole workshop)
 
 ## Participation
 
