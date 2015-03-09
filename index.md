@@ -16,6 +16,16 @@ Learning occurs over time and interest in analyses that probe temporal aspects c
 
 For more details, see the [__full proposal__](https://dl.dropboxusercontent.com/u/7599158/LAK15-It%27sAboutTimeWorkshop.pdf) (pdf) of the workshop.
 
+## Workshop Schedule
+
+March 16, 2015, 8:30am - 12:30pm
+
+- 8:30 - 9:00 - Introduction to the Workshop: Temporal Analyses and Learning Analytics (led by organizers)
+- 9:00 - 10:00 - Group Work Session 1 (Conceptual): Intro to the Approach, Tools & Data Types it can work for (analytic & data presenters)
+- 10:00 - 10:15 - Coffee Break
+- 10:15 - 11:45 - Group Work Session 2 (Application): Hands-on putting data into the tools and/or critical discussion of its application to specific data sets (all group members)
+- 11:45 - 12:30 - Group Share Out, General Discussion and Wrap-Up (whole workshop)
+
 ## Participation
 
 Those interested in participating are invited to submit short (1 page maximum) applications for one of the following roles briefly describing which role you would like to participate in at the workshop and what you bring to the position (e.g., past experience working with temporal analyses, how this area relates to your research interests). Those proposing a conceptual, data, or analytic presentation should also briefly outline what they would like to present on -- i.e., conceptual issues addressed / characteristics of the data set and if any, analyses conducted thus far / analytic approach and what data it is suitable for. Participation roles include the following:
