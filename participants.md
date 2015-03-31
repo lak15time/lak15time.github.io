@@ -1,5 +1,11 @@
 ---
 layout: page
+excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
+tags: [learning analytics, temporality, temporal, data analysis]
+image:
+  feature: article.jpg
+  credit: LAK15
+  creditlink: http://lak15.solaresearch.org/
 ---
 
 ## Workshop Participants
