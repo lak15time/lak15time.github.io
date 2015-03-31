@@ -24,6 +24,8 @@ kramdown:
   toc_levels: 1..2
   use_coderay: false
 
+- title: Participants
+  url: /participants/
 
 # Site owner
 owner:
