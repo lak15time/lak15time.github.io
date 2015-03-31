@@ -1,9 +1,5 @@
 ---
-layout: page
-image:
-  feature: article.jpg
-  credit: Home
-  creditlink: http://lak15time.github.io/
+layout: post
 ---
 
 ## Workshop Participants
