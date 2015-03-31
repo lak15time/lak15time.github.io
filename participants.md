@@ -1,3 +1,11 @@
+---
+layout: page
+image:
+  feature: article.jpg
+  credit: LAK15
+  creditlink: http://lak15.solaresearch.org/
+---
+
 ## Workshop Participants
 
 ### Group 1: Using sequence analysis and optimal matching to analyze classroom-based video data
