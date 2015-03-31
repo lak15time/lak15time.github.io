@@ -49,7 +49,7 @@ Those interested in participating were invited to submit short (1 page maximum) 
 - **Analytic presenters**: those who provide an analytic technique relevant to temporal analysis
 - **Commentators**: those who commit to reading, and responding to, at least one of the above kinds of submission -- note that we welcome commentators with all backgrounds and levels of experience
 
-[Accepted workshop participants are listed here](http://lak15time.github.io/participants).
+[__All workshop participants are listed here__](http://lak15time.github.io/participants).
 
 <!-- Applications to participate should be emailed to [Simon Knight](mailto:sjgknight@gmail.com) with the subject line ‘LAKTime’ by **January 11th**. We aim to send out notifications on January 16th, before LAK's earlybird registration deadline (Jan 21st). -->
 
