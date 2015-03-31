@@ -2,8 +2,8 @@
 layout: page
 image:
   feature: article.jpg
-  credit: LAK15
-  creditlink: http://lak15.solaresearch.org/
+  credit: Home
+  creditlink: http://lak15time.github.io/
 ---
 
 ## Workshop Participants
