@@ -7,9 +7,11 @@ locale:           en_US
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
+permalink:   pretty
 markdown:    kramdown
 highlighter: pygments
+url:         http://lak15time.github.io/
+shorturl:    lak15time.github.io
 sass:
   sass_dir: _sass
   style: compressed
